@@ -1,0 +1,8 @@
+﻿<Properties StartupConfiguration="{A08F7317-58F0-4F37-A92F-4FFCFC85938F}|https">
+  <MonoDevelop.Ide.ItemProperties.Core.Whysap.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Core.Whysap.Domain FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Whysap.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.Whysap.Infrastructure FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Infrastructure.Whysap.Persistence FirstBuild="True" />
+</Properties>
