@@ -1,0 +1,12 @@
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/bin/Debug/net7.0/Whysap.Infrastructure.deps.json
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/bin/Debug/net7.0/Whysap.Infrastructure.dll
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/bin/Debug/net7.0/Whysap.Infrastructure.pdb
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.dll
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/refint/Whysap.Infrastructure.dll
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/Whysap.Infrastructure.pdb
+/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Infrastructure/obj/Debug/net7.0/ref/Whysap.Infrastructure.dll

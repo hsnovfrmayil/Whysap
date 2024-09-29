@@ -6,4 +6,36 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Call\" />
+    <None Remove="Repositories\Message\" />
+    <None Remove="Repositories\Profile\" />
+    <None Remove="Repositories\Status\" />
+    <None Remove="Repositories\User\" />
+    <None Remove="Abstractions\" />
+    <None Remove="Abstractions\Services\" />
+    <None Remove="Abstractions\DTOs\" />
+    <None Remove="Abstractions\UnitOfWorks\" />
+    <None Remove="Abstractions\DTOs\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Call\" />
+    <Folder Include="Repositories\Message\" />
+    <Folder Include="Repositories\Profile\" />
+    <Folder Include="Repositories\Status\" />
+    <Folder Include="Repositories\User\" />
+    <Folder Include="Abstractions\" />
+    <Folder Include="Abstractions\Services\" />
+    <Folder Include="Abstractions\DTOs\" />
+    <Folder Include="Abstractions\UnitOfWorks\" />
+    <Folder Include="Abstractions\DTOs\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Whysap.Domain\Whysap.Domain.csproj" />
+  </ItemGroup>
 </Project>

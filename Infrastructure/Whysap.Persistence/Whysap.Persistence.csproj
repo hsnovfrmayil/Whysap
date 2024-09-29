@@ -6,4 +6,44 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Contexts\" />
+    <None Remove="Repositories\" />
+    <None Remove="Repositories\Call\" />
+    <None Remove="Repositories\Message\" />
+    <None Remove="Repositories\User\" />
+    <None Remove="Repositories\Status\" />
+    <None Remove="Repositories\Profile\" />
+    <None Remove="Services\" />
+    <None Remove="UnitOfWorks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contexts\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Repositories\Call\" />
+    <Folder Include="Repositories\Message\" />
+    <Folder Include="Repositories\User\" />
+    <Folder Include="Repositories\Status\" />
+    <Folder Include="Repositories\Profile\" />
+    <Folder Include="Services\" />
+    <Folder Include="UnitOfWorks\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\Whysap.Domain\Whysap.Domain.csproj" />
+    <ProjectReference Include="..\..\Core\Whysap.Application\Whysap.Application.csproj" />
+  </ItemGroup>
 </Project>

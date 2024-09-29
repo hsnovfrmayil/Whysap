@@ -1,0 +1,13 @@
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/bin/Debug/net7.0/Whysap.Domain.deps.json
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/bin/Debug/net7.0/Whysap.Domain.dll
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/bin/Debug/net7.0/Whysap.Domain.pdb
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.AssemblyInfoInputs.cache
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.AssemblyInfo.cs
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.csproj.CoreCompileInputs.cache
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.dll
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/refint/Whysap.Domain.dll
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.pdb
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/ref/Whysap.Domain.dll
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.csproj.AssemblyReference.cache
+/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.sourcelink.json
