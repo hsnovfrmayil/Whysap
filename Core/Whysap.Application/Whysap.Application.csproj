@@ -18,6 +18,7 @@
     <None Remove="Abstractions\DTOs\" />
     <None Remove="Abstractions\UnitOfWorks\" />
     <None Remove="Abstractions\DTOs\User\" />
+    <None Remove="Abstractions\Services\Authentications\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Repositories\" />
@@ -31,6 +32,7 @@
     <Folder Include="Abstractions\DTOs\" />
     <Folder Include="Abstractions\UnitOfWorks\" />
     <Folder Include="Abstractions\DTOs\User\" />
+    <Folder Include="Abstractions\Services\Authentications\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1jy/hpwnf4CIN1FdnJN8ZoLVNxkEXWI+T20LpYVLjfr0zGebq50GVyj7tXUGq1UWR8QgDC/Q9V2mW82Aolmjdw==",
+  "dgSpecHash": "vQxYOZYdu9hYnSHsP+d72NsWw/NYbu1cziUbJpJf8kFwjiRImEAShgLURmApLCh2IbzXuFhvHcR7w/oSNJZtxQ==",
   "success": true,
   "projectFilePath": "/Users/fermayilhesenov/Projects/whysap/Infrastructure/Whysap.Persistence/Whysap.Persistence.csproj",
   "expectedPackageFiles": [
@@ -65,9 +65,7 @@
     "/Users/fermayilhesenov/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
     "/Users/fermayilhesenov/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
     "/Users/fermayilhesenov/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+    "/Users/fermayilhesenov/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -41,6 +41,7 @@ public static class ServiceRegistration
         services.AddSingleton<IProfileWriteRepository, ProfileWriteRepository>();
 
         services.AddScoped<IUserService, UserService>();
+        services.AddScoped<IAuthService, AuthService>();
 
         services.AddScoped<IUnitOfWork, UnitOfWork>();
     }

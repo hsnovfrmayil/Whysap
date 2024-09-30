@@ -10,4 +10,3 @@
 /Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.pdb
 /Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/ref/Whysap.Domain.dll
 /Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.csproj.AssemblyReference.cache
-/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/obj/Debug/net7.0/Whysap.Domain.sourcelink.json

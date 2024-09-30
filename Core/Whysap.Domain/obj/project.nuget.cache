@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "if7w5DBwIZkrgnklva1MArjZQovRCNEDXWL+FreRgq1kJIVHxmz5HUdglCeLTq2fGw7iRsAHQTC4GRMFjnlvSw==",
+  "dgSpecHash": "F+0q5whbkuoXRKlouCksLT3aqspD7xBv6m/2Kpo/eOBv0uHFCDlIewL54zcbDGEG7mzmRuAiK1BUF0Iju5Jruw==",
   "success": true,
   "projectFilePath": "/Users/fermayilhesenov/Projects/whysap/Core/Whysap.Domain/Whysap.Domain.csproj",
   "expectedPackageFiles": [
@@ -50,9 +50,7 @@
     "/Users/fermayilhesenov/.nuget/packages/system.security.cryptography.xml/4.5.0/system.security.cryptography.xml.4.5.0.nupkg.sha512",
     "/Users/fermayilhesenov/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
     "/Users/fermayilhesenov/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "/Users/fermayilhesenov/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+    "/Users/fermayilhesenov/.nuget/packages/system.text.encodings.web/4.5.0/system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
